@@ -1,0 +1,14 @@
+{
+  "name": "nodekb",
+  "version": "1.0.0",
+  "description": "Simple Knowledge Base",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "Chris Swinson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
